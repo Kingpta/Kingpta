@@ -5,11 +5,11 @@
 Website developer
 -----------------
 
-I have been coding for 2 years , i am proficient in html ,css, tailwind, JavaScript and react js
+I have been coding for 2 years , i am proficient in html ,css, tailwind, JavaScript, react js,nodejs, express js
 
 * 🌍  I'm based in Nigeria
 * ✉️  You can contact me at [kingpeteradeniji1@gmail.com](mailto:kingpeteradeniji1@gmail.com)
-* 🧠  I'm learning Python and django
+* 🧠  I'm learning solidity 
 * 🤝  I'm open to collaborating on Web apps , website
 * ⚡  I also love anime
 
